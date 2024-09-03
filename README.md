@@ -4,28 +4,15 @@
 This project aims to analyze employee working preferences, attendance patterns, and health measures to provide actionable insights for HR management.
 
 ## Objectives
-1. Understand initial requirements from the HR manager.
-2. Analyze working preferences between work from home and office.
+1. Understand the initial requirements of the HR manager.
+2. Analyze working preferences between working from home and office.
 3. Investigate attendance patterns and unexpected work-from-home days.
 4. Plan team activities and optimize office space and resources.
 5. Analyze sick leave patterns to identify potential health issues.
 6. Implement health measures like flu shots to improve employee well-being and attendance.
 
 ## Data
-- `data/attendance_data.xlsx`: Contains attendance records.
-- `data/sick_leave_data.xlsx`: Contains sick leave records.
-
-## Scripts
-- `scripts/data_cleaning.py`: Script for cleaning and preprocessing data.
-- `scripts/attendance_analysis.py`: Script for analyzing attendance patterns.
-- `scripts/sick_leave_analysis.py`: Script for analyzing sick leave patterns.
-
-## Reports
-- `reports/attendance_report.pdf`: Detailed report on attendance patterns.
-- `reports/sick_leave_report.pdf`: Detailed report on sick leave patterns.
-
-## Notebooks
-- `notebooks/EDA.ipynb`: Exploratory Data Analysis notebook.
+- `Attendance Sheet 2022-2023_Masked.xlsx`: Contains attendance records.
 
 ## Methodology
 1. **Understanding Requirements**: Engaged with the HR manager to gather initial requirements.
